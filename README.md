@@ -160,3 +160,7 @@ volumeBindingMode: Immediate
 ```
 
 Delete the meteringconfig using '`oc delete meteringconfig operator-metering` and then edit your meteringconfig yaml to use the new storageclass. Apply the new yaml and you should be good to go
+
+
+
+![cost management img](/imgs/cost-mgmt.png)
